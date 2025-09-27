@@ -1,4 +1,11 @@
 # Smart Service Booking System (SSBS)
+<img width="1103" height="602" alt="image" src="https://github.com/user-attachments/assets/ca84fa7e-a2c4-419e-8c59-cd8960154fd0" />
+
+
+<img width="1099" height="601" alt="image" src="https://github.com/user-attachments/assets/e0724c5b-826f-4185-8dfd-649b7605afbd" />
+
+<img width="1099" height="601" alt="image" src="https://github.com/user-attachments/assets/e1b1cc5a-bbb1-469f-a7c3-0395d0a70f39" />
+
 
 A full-stack GraphQL-powered service booking platform built with Node.js backend and vanilla HTML/CSS/JS frontend.
 
